@@ -1,0 +1,5 @@
+spring:
+  config:
+    include:
+      - jms
+      - okta
