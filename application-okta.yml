@@ -3,4 +3,4 @@ okta:
     here: "yse"
 
 template:
-  okta: yes
+  okta: "yes"
