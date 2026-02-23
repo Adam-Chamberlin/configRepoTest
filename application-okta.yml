@@ -1,4 +1,6 @@
 okta:
   is:
     here: "yse"
-    
+
+template:
+  okta: yes
