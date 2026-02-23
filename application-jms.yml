@@ -3,4 +3,4 @@ jms:
     here: yes
 
 template:
-  jms: yes
+  jms: "yes"
