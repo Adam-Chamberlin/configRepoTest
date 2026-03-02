@@ -3,3 +3,6 @@ spring:
     include:
       - jms
       - okta
+
+template:
+  repo: "yes"
